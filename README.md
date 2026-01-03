@@ -2,18 +2,18 @@
 
 A 3D-printed wire spooler designed for winding electromagnet and coil wire with consistent, even layers.  
 The mechanism uses a sliding carriage and a mechanical direction-switching system.  
-
+![img](images/img1.jpg) 
 ## Features
 
 - **Dual-gear drive system**  
   Two gears spin in opposite directions. Only one is engaged at a time, depending on the lever position.
-
+![img](images/img2.jpg) 
 - **Sliding wire-guide carriage**  
   Holds the wire and moves smoothly across the spool as it winds.
-
+![img](images/img3.jpg) 
 - **Bistable magnetic detent (optional)**  
   Small magnets help hold the direction-switching lever in one of two stable positions. Improves feel and reduces accidental mid-travel switching.
-
+![img](images/img4.jpg) 
 - **Fully 3D-printed mechanism**  
   All motion components are printable; requires only a motor or hand-crank for the spool.
 
